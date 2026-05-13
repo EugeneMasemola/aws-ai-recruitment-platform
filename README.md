@@ -43,7 +43,9 @@ The platform uses a multi-tier AWS architecture with:
 - Scalable compute resources
 
 ---
+## Architecture Diagram
 
+![AWS Architecture](diagrams/Blank diagram1(3).pdf)
 ## Outcome
 The solution was optimized for:
 - Performance
